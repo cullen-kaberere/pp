@@ -5,7 +5,7 @@ Description.
 This website its my first website and contains my details.
 
 Author.
-Cullen Kaberere.
+Cullen Kaberere
 
 Technologies used
 Html
