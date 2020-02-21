@@ -1,0 +1,35 @@
+#heading{
+  color: rgb(206, 103, 19);
+  text-align: center;
+}
+.para
+{
+  display: block;
+margin-top: 1em;
+margin-bottom: 1em;
+margin-left: 0;
+margin-right: 0;
+color: rgb(214, 127, 55);
+background-color: rgba(0, 0, 0, 0.514);
+
+}
+body
+{
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.514);
+  max-height: fit-content;
+font-size: 8mm;
+text-decoration-color: burlywood;
+}
+.link{
+  background-color: rgba(0, 0, 0, 0.514);
+  color: rgb(214, 127, 55) ;
+}
+.cont{
+  color: rgb(214, 127, 55);
+}
